@@ -11,12 +11,5 @@ _**Botón 3D con efecto visual estilo sci-fi. Ideal para interfaces holográfica
    
 <footer>
    
-## Después de crear el repositorio desde la plantilla, asegúrate de revisar lo siguiente:
-
-
-- [ ] Confirmar que **Releases** sigue activado 
-
-- [ ] Dejar Topics necesarios.
-
 
 </footer>
